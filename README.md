@@ -1,4 +1,4 @@
-<div asign="center">
+<div align="center">
   
 # Mi primer repositorio readme
 
